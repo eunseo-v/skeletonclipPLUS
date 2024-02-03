@@ -1,0 +1,61 @@
+id,name
+0,drinking water
+1,eating meal or snack
+2,brushing teeth
+3,brushing hair
+4,dropping
+5,picking up
+6,throwing
+7,sitting down
+8,standing up from sitting position
+9,clapping
+10,reading
+11,writing
+12,tearing up paper
+13,wearing jacket
+14,taking off jacket
+15,wearing a shoe
+16,taking off a shoe
+17,wearing on glasses
+18,taking off glasses
+19,putting on a hat or cap
+20,taking off a hat or cap
+21,cheer up
+22,hand waving
+23,kicking something
+24,reaching into pocket
+25,hopping or one foot jumping
+26,jump up
+27,making a phone call or answer phone
+28,playing with phone or tablet
+29,typing on a keyboard
+30,pointting to something with finger
+31,taking a selfie
+32,checking time from watch
+33,rubbing two hands together
+34,nodding head or bowing
+35,shaking head
+36,wiping face
+37,salute
+38,putting the palms together
+39,crossing hands in front (say stop)
+40,sneeze or cough
+41,staggering
+42,falling
+43,touching head or headache
+44,touching chest or stomachache
+45,touching back or backache
+46,touching neck or neckache
+47,nausea or vomiting condition
+48,using a fan with hand or feeling warm
+49,punching or slapping other person
+50,kicking other person
+51,pushing other person
+52,patting on back of other person
+53,pointing finger at the other person
+54,hugging other person
+55,giving something to other person
+56,touching other person's pocket
+57,handshaking
+58,walking towards each other
+59,walking apart from each other
