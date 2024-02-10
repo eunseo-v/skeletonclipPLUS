@@ -1,3 +1,6 @@
+## Datasets
+https://github.com/kennymckormick/pyskl/blob/main/tools/data/README.md
+
 ## Installation
 ```shell
 git clone https://github.com/eunseo-v/sscls
